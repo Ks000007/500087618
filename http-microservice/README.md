@@ -1,10 +1,16 @@
 # Getting Started with Create React App
+`cd server`
+`npm i`
+run command in server folder to initialise server packages
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm server`
+run the server first using npm server command in root directory
 
 ### `npm start`
 
